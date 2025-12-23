@@ -16,12 +16,20 @@ SCHEMATIC
 <img width="792" height="546" alt="Screenshot 2025-12-24 001421" src="https://github.com/user-attachments/assets/6f5ea26b-3046-4950-b9f7-7345021e20a1" />
 
 BOM:
-6x Cherry MX Switches
+6x Cherry MX Switches 
+
 6x DSA Keycaps
+
 4x M3x5x4 Heatset inserts
+
 4x M3x16mm screws
+
 6x 1N4148 DO-35 Diodes.
+
 1x 0.91" 128x32 OLED Display
+
 2x EC11 Rotary Encoder
+
 1x XIAO RP2040
+
 1x Case (2 printed parts)
