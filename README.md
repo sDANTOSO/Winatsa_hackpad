@@ -7,7 +7,10 @@ CAD
 
 One rotary encoder changes volume and the other changes brightness, the oled will display a motivational quote, the keys are going to be used for movement but I may change them to fulfil more complex macros.
 
-PCB
+PCB+3d pcb
+
+![Santosos_Hackpad_pcb_3d](https://github.com/user-attachments/assets/0868105c-073a-46d3-9983-acc57d1fe0f9)
+
 
 <img width="945" height="585" alt="Screenshot 2025-12-24 001310" src="https://github.com/user-attachments/assets/9188670b-5866-488b-b214-62810ac3a52e" />
 
